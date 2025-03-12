@@ -1,10 +1,8 @@
 # Austin Gregersen
 
-Follow me on [Twitter](https://x.com/abgregs) and [Bluesky](https://bsky.app/profile/abgregs.bsky.social) or for building in public.
+Follow me on [Twitter](https://x.com/abgregs) and [Bluesky](https://bsky.app/profile/abgregs.bsky.social) for building in public.
 
-Visit [the blog](https://austingregersen.com) to learn more about me and my interests as a developer.
-
-
+Visit [austingregersen.com](https://austingregersen.com) to learn more about my interests as a developer.
 <!--
 **abgregs/abgregs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
